@@ -1,0 +1,21 @@
+Unexpected error connecting: 'charmap' codec can't encode characters in position 20-30: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\«¿√–”« »\dev\minotaursearchenigne\searchbyname.py", line 45, in try_connect
+    file.write(f"{ip}:{port} - {website_title}\n")
+  File "C:\Program Files\Python310\lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 20-30: character maps to <undefined>
+Unexpected error connecting: 'charmap' codec can't encode characters in position 20-21: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\«¿√–”« »\dev\minotaursearchenigne\searchbyname.py", line 45, in try_connect
+    file.write(f"{ip}:{port} - {website_title}\n")
+  File "C:\Program Files\Python310\lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 20-21: character maps to <undefined>
+Unexpected error connecting: 'charmap' codec can't encode characters in position 20-26: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\«¿√–”« »\dev\minotaursearchenigne\searchbyname.py", line 45, in try_connect
+    file.write(f"{ip}:{port} - {website_title}\n")
+  File "C:\Program Files\Python310\lib\encodings\cp1251.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 20-26: character maps to <undefined>

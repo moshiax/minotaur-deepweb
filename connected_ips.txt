@@ -1,0 +1,478 @@
+154.206.220.65:80 - 404 Not Found
+23.36.102.145:80 - Title not found
+203.106.116.212:80 - IIS Windows Server
+23.215.195.21:80 - Title not found
+45.60.48.61:80 - Title not found
+23.221.225.241:80 - Title not found
+13.32.216.37:80 - Title not found
+210.183.141.175:80 - IIS Windows
+184.31.244.5:80 - Title not found
+160.242.69.176:80 - Title not found
+149.248.15.133:80 - Title not found
+54.89.215.187:80 - Title not found
+113.196.250.30:80 - Title not found
+38.153.201.141:80 - ERROR: The requested URL could not be retrieved
+95.57.245.62:80 - GPON Home Gateway
+3.138.172.115:80 - Title not found
+193.41.237.34:80 - mailcow UI
+62.109.10.186:80 - Yourtunes
+44.215.241.178:80 - Title not found
+54.93.128.38:80 - 404 Not Found
+81.168.12.125:80 - 
+20.221.30.252:80 - Your Azure Function App is up and running.
+190.79.251.219:80 - Title not found
+147.161.234.193:80 - Internet Security by Zscaler
+209.237.162.33:80 - Title not found
+13.232.38.28:80 - Title not found
+104.99.231.129:80 - Title not found
+18.164.160.110:80 - Title not found
+199.232.84.88:80 - Fastly error: unknown domain 199.232.84.88
+151.101.246.35:80 - Fastly error: unknown domain 151.101.246.35
+73.247.166.151:80 - 
+107.186.164.135:80 - 404 Not Found
+167.86.107.110:80 - Welcome to nginx!
+177.8.199.224:80 - 
+193.11.15.239:80 - Title not found
+149.96.145.31:80 - 403 Forbidden
+218.247.65.72:80 - 403 Forbidden
+104.236.51.238:80 - Liquor Cabinet
+177.129.8.137:80 - ACME Access Only
+170.83.176.21:80 - 407 Proxy Authentication Required
+176.178.70.14:80 - 406 Not Acceptable
+184.29.196.213:80 - Title not found
+190.167.126.104:80 - 
+185.149.100.221:80 - Title not found
+71.15.170.22:80 - 
+20.94.149.23:80 - Your Azure Function App is up and running.
+52.251.73.118:80 - Your Azure Function App is up and running.
+203.138.31.149:80 - Title not found
+104.27.170.21:80 - Direct IP access not allowed | Cloudflare
+172.247.159.195:80 - 403 Forbidden
+209.198.34.137:80 - 410 Gone
+104.105.4.54:80 - Title not found
+194.33.40.192:80 - 404 Not Found
+190.91.154.208:80 - Title not found
+23.57.83.160:80 - Title not found
+74.121.217.112:80 - Loews Royal Pacific Resort at Universal Orlando Resort N1 Portal
+104.16.32.8:80 - Direct IP access not allowed | Cloudflare
+85.187.240.30:80 - Please wait, the login page is opening...
+35.82.154.26:80 - Title not found
+3.163.211.209:80 - Title not found
+185.201.76.90:80 - NethServer Enterprise
+45.76.151.135:80 - Default Site
+47.25.68.71:80 - 
+174.111.41.222:80 - 
+212.5.220.182:80 - Index of /
+44.233.134.132:80 - Title not found
+23.213.167.136:80 - Title not found
+89.41.254.115:80 - 410 Gone
+107.186.242.79:80 - 404 Not Found
+134.213.60.17:80 - Welcome to CentOS
+73.126.207.124:80 - Title not found
+140.238.36.248:80 - Title not found
+139.60.6.144:80 - 403 Forbidden
+104.19.20.30:80 - Direct IP access not allowed | Cloudflare
+105.108.135.138:80 - Title not found
+34.251.168.92:80 - Title not found
+1.234.39.98:80 - 403 Forbidden
+104.67.182.155:80 - Title not found
+184.25.208.102:80 - Title not found
+5.63.81.18:80 - GPON Home Gateway
+168.205.107.166:80 - 500 Internal Server Error
+45.158.9.89:80 - Welcome to nginx!
+178.239.208.1:80 - 403 - Forbidden
+27.229.190.138:80 - Title not found
+164.92.86.98:80 - Title not found
+38.135.54.43:80 - Page not found
+35.183.89.43:80 - BitFormations Inc.
+151.106.7.121:80 - Options Morgage Services
+88.221.59.169:80 - Title not found
+18.65.70.99:80 - Title not found
+94.159.139.26:80 - 
+104.120.62.218:80 - Title not found
+146.75.83.163:80 - Fastly error: unknown domain 146.75.83.163
+178.250.10.157:80 - Title not found
+13.48.27.33:80 - Meyer eClass
+95.220.68.113:80 - Title not found
+23.9.71.22:80 - Title not found
+95.111.231.68:80 - SecroMix &#8211; SeeWhat&#039;sNext
+18.172.221.233:80 - Title not found
+92.122.107.227:80 - Title not found
+89.161.149.113:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+79.96.133.150:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+104.85.51.58:80 - Title not found
+1.234.52.136:80 - STON
+87.255.197.29:80 - Apache2 Debian Default Page: It works
+54.183.210.0:80 - Stiendal
+4.228.6.189:80 - Title not found
+2.16.76.78:80 - Title not found
+23.223.188.230:80 - Title not found
+142.251.214.135:80 - Google
+24.85.28.100:80 - 401 Unauthorized
+190.167.1.146:80 - 
+104.84.56.36:80 - Title not found
+18.64.132.165:80 - Title not found
+31.184.249.181:80 - Error
+18.165.124.63:80 - Title not found
+104.22.3.45:80 - Direct IP access not allowed | Cloudflare
+63.35.188.198:80 - Title not found
+62.109.26.42:80 - HTTP Server Test Page powered by CentOS
+103.119.12.172:80 - Demo
+117.17.3.70:80 - Title not found
+23.201.183.167:80 - Title not found
+13.125.159.176:80 - ssafy_fe
+154.220.117.156:80 - Title not found
+20.125.65.225:80 - Title not found
+23.46.213.125:80 - Title not found
+34.202.97.130:80 - The page you were looking for doesn't exist (404)
+84.208.42.251:80 - Title not found
+140.238.236.93:80 - Welcome to nginx!
+194.87.67.146:80 - Home
+114.35.251.133:80 - 401 Unauthorized
+34.28.254.216:80 - 404 Not Found
+104.25.80.105:80 - Direct IP access not allowed | Cloudflare
+18.154.94.181:80 - Title not found
+104.27.228.12:80 - Direct IP access not allowed | Cloudflare
+200.79.143.223:80 - 
+35.238.66.238:80 - Title not found
+2.127.127.196:80 - Title not found
+65.8.174.174:80 - Title not found
+18.155.252.30:80 - Title not found
+23.202.8.227:80 - Title not found
+104.22.40.178:80 - Direct IP access not allowed | Cloudflare
+42.114.94.38:80 - 
+23.194.24.213:80 - Title not found
+34.237.21.45:80 - American Experiment
+185.206.53.145:80 - Title not found
+203.24.240.26:80 - IIS Windows Server
+154.26.226.167:80 - 404 Not Found
+3.132.44.147:80 - CAPSAPP | Advanced Practice Providers Cardiology Conference 2023
+2.17.196.9:80 - Title not found
+188.166.166.7:80 - Welcome to nginx!
+154.22.213.197:80 - Title not found
+179.37.183.146:80 - Title not found
+96.58.16.219:80 - 
+152.32.216.29:80 - 404 Not Found
+23.195.76.148:80 - Title not found
+103.246.255.119:80 - 401 Unauthorized
+35.226.251.219:80 - User&#039;s blog
+3.9.133.63:80 - 404 Not Found
+142.44.155.147:80 - 500 Internal Server Error
+177.39.16.67:80 - Title not found
+189.4.5.5:80 - Title not found
+47.74.34.143:80 - Welcome to nginx!
+112.72.9.10:80 - 
+34.144.83.115:80 - Welcome to nginx!
+206.197.244.106:80 - Title not found
+35.189.66.156:80 - 503 Service Temporarily Unavailable
+52.208.165.25:80 - Title not found
+65.0.187.132:80 - etv
+2.16.214.220:80 - Title not found
+195.211.212.137:80 - Welcome to nginx!
+106.135.118.183:80 - HITACHI Management
+150.101.146.233:80 - Title not found
+209.127.17.154:80 - 407 Proxy Authentication Required
+206.233.232.134:80 - Welcome to nginx!
+23.47.64.15:80 - Title not found
+200.88.88.75:80 - 
+172.64.201.246:80 - Direct IP access not allowed | Cloudflare
+104.152.197.220:80 - Title not found
+156.224.61.99:80 - 404 Not Found
+104.199.51.194:80 - Site Not Configured | 404 Not Found
+185.14.205.182:80 - Please wait, the page is opening...
+23.203.230.190:80 - Title not found
+74.82.20.161:80 - HURRICANE ELECTRIC
+52.5.9.36:80 - Welcome to nginx!
+133.186.219.37:80 - Title not found
+154.198.22.54:80 - 500 Internal Server Error
+185.67.107.241:80 - Index of /
+86.62.57.58:80 - ERROR: The requested URL could not be retrieved
+84.86.150.146:80 - 
+18.172.35.19:80 - Title not found
+52.85.74.204:80 - Title not found
+174.110.43.47:80 - hue personal wireless lighting
+23.27.12.195:80 - 403 Forbidden
+147.213.76.97:80 - 404 Not Found
+119.197.254.207:80 - Title not found
+86.8.79.32:80 - 
+50.112.81.68:80 - Title not found
+34.249.204.77:80 - Title not found
+104.18.97.120:80 - Direct IP access not allowed | Cloudflare
+172.217.19.183:80 - Google
+188.94.156.138:80 -  HTTP Error 500.30 - ASP.NET Core app failed to start 
+23.1.38.123:80 - Title not found
+104.87.208.44:80 - Title not found
+162.215.222.110:80 - Title not found
+107.158.88.85:80 - 403 Forbidden
+72.83.93.247:80 - 
+164.92.216.138:80 - Artboard
+18.183.58.198:80 - Test Page for the Apache HTTP Server on the Amazon Linux AMI
+20.23.37.143:80 - Title not found
+35.199.5.21:80 - Title not found
+52.85.138.167:80 - Title not found
+94.84.181.62:80 - Document Moved
+81.170.245.173:80 - Linksys Smart Wi-Fi
+200.5.62.119:80 - Title not found
+18.224.162.228:80 - Proxy Backend Not Found
+23.206.203.84:80 - Title not found
+125.252.233.233:80 - Title not found
+104.20.17.166:80 - Direct IP access not allowed | Cloudflare
+93.42.167.195:80 - RouterOS router configuration page
+23.11.134.254:80 - Title not found
+46.41.170.86:80 - home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
+94.112.254.147:80 - RouterOS router configuration page
+202.137.20.137:80 - IIS Windows Server
+130.130.214.189:80 - Title not found
+104.88.233.210:80 - Title not found
+103.134.117.103:80 - WEB SERVICE
+184.24.243.51:80 - Title not found
+43.218.134.11:80 - Title not found
+143.95.32.164:80 - Not Acceptable!
+185.28.1.234:80 - Test Page for Apache Installation
+108.159.73.164:80 - Title not found
+172.82.159.241:80 - 404 Not Found
+34.226.54.200:80 - Title not found
+113.10.191.142:80 - Title not found
+52.199.59.181:80 - 403 Forbidden
+1.173.81.214:80 - Title not found
+92.122.42.182:80 - Title not found
+154.92.33.19:80 - 404 Not Found
+23.221.175.13:80 - Title not found
+23.54.38.161:80 - Title not found
+82.65.103.224:80 - WEB SERVICE
+98.157.102.46:80 - 
+173.63.239.156:80 - 404 Not Found
+38.182.176.22:80 - 403 Forbidden
+161.132.173.207:80 - Grupo Deco
+218.145.66.96:80 - 403 Forbidden
+91.219.63.180:80 - Coming Soon - nebulanourishnest.xyz
+35.177.149.169:80 - Titanium Cars
+144.208.72.24:80 - Title not found
+23.58.28.117:80 - Title not found
+104.85.247.161:80 - Title not found
+51.81.111.232:80 - Apache HTTP Server Test Page powered by CentOS
+216.10.251.111:80 - Title not found
+172.252.167.156:80 - 410 Gone
+23.223.230.62:80 - Title not found
+72.167.65.141:80 - Coming Soon
+54.207.93.248:80 - Title not found
+68.69.31.207:80 - Welcome to Canopy
+173.222.202.234:80 - Title not found
+185.129.239.70:80 - Title not found
+222.103.116.95:80 - 
+34.254.5.238:80 - Welcome to nginx!
+52.9.106.242:80 - 502 Bad Gateway
+18.165.206.79:80 - Title not found
+167.99.193.69:80 - Welcome to nginx!
+38.85.239.130:80 - 404 Not Found
+151.250.218.192:80 - Title not found
+3.111.244.168:80 - Laravel
+162.240.53.122:80 - Title not found
+119.197.153.71:80 - Title not found
+66.39.75.85:80 - Just Delete Me | A directory of direct links to delete your account from web services.
+172.245.72.239:80 - 407 Proxy Authentication Required
+51.210.246.146:80 - 404 Not Found
+4.250.59.211:80 - Your Azure Function App is up and running.
+18.155.83.73:80 - Title not found
+104.65.105.81:80 - Title not found
+108.138.72.153:80 - Title not found
+104.26.135.5:80 - Direct IP access not allowed | Cloudflare
+188.166.210.115:80 - 404 Not Found
+45.201.246.205:80 - Title not found
+45.80.157.18:80 - 403 Forbidden
+95.153.255.189:80 - iRZ Mobile Router
+23.196.57.240:80 - Title not found
+187.103.173.106:80 - Title not found
+52.105.215.25:80 - Title not found
+77.235.202.18:80 - RouterOS router configuration page
+45.84.216.144:80 - 403 Forbidden
+43.202.77.2:80 - 502 Bad Gateway
+3.248.217.198:80 - 403 Forbidden
+35.201.52.39:80 - 35.201.52.39.corp.google.com - Google Single Sign On: Sign into corp
+119.28.68.161:80 - 
+5.102.128.245:80 - Title not found
+50.229.220.247:80 - Title not found
+23.27.97.243:80 - 404 Not Found
+54.182.216.239:80 - Title not found
+185.158.112.54:80 - 185.158.112.54 &mdash; Coming Soon
+121.83.254.110:80 - 403 Forbidden
+23.38.135.203:80 - Title not found
+95.65.100.122:80 - 403 Forbidden
+35.197.147.26:80 - 404 Not Found
+188.74.132.39:80 - 410 Gone
+92.119.113.220:80 - Success!
+5.89.22.218:80 - ' + GetCommercialName() + ' - ' + TR_HEADER + '
+27.74.27.42:80 - 
+78.186.155.111:80 - 
+13.249.6.178:80 - Title not found
+162.159.248.86:80 - Direct IP access not allowed | Cloudflare
+82.54.155.98:80 - index
+197.155.33.5:80 - Title not found
+14.189.188.115:80 - 
+59.3.240.147:80 - IP CAMERA
+44.196.247.249:80 - Take Your Block
+128.171.220.63:80 - AXIS
+213.111.15.47:80 - Erreur
+142.250.68.103:80 - Google
+23.210.185.118:80 - Title not found
+186.6.202.4:80 - 
+206.162.241.115:80 - Title not found
+72.23.58.106:80 - Title not found
+144.34.197.10:80 - Title not found
+164.90.213.133:80 - SuiteCRM
+92.123.112.161:80 - Title not found
+193.229.108.25:80 - Title not found
+104.79.214.190:80 - Title not found
+140.106.30.211:80 - Lake
+52.219.140.90:80 - Cloud Object Storage - Amazon S3  - AWS
+24.123.79.250:80 - Document Moved
+54.194.20.75:80 - Title not found
+95.97.162.93:80 - Title not found
+95.163.236.130:80 - 404 Not Found
+188.40.25.111:80 - Spider Duo Authentication
+41.234.13.64:80 - 
+2.18.145.141:80 - Title not found
+3.226.80.168:80 - Welcome to nginx!
+23.218.163.88:80 - Title not found
+54.77.37.93:80 - PepsiCo Welcome Page
+154.7.62.78:80 - 403 Forbidden
+18.215.90.71:80 - Axis | Login
+107.179.86.196:80 - 403 Forbidden
+41.59.58.116:80 - System Login
+23.196.212.37:80 - Title not found
+2.21.160.238:80 - Title not found
+154.39.230.246:80 - Test Page for the Nginx HTTP Server on Red Hat Enterprise Linux
+50.198.96.222:80 - DVR Components Download
+88.221.164.252:80 - Title not found
+35.157.246.163:80 - Title not found
+52.209.130.170:80 - 403 Forbidden
+62.219.112.224:80 - WEB SERVICE
+104.69.212.175:80 - Title not found
+172.252.13.46:80 - 410 Gone
+104.19.10.2:80 - Direct IP access not allowed | Cloudflare
+194.30.133.101:80 - 403 Forbidden
+178.161.149.42:80 - Система электронного обучения ГК "Европейский" › 
+23.220.46.228:80 - Title not found
+121.54.189.142:80 - 404 Not Found
+23.39.119.30:80 - Title not found
+104.17.220.150:80 - Direct IP access not allowed | Cloudflare
+179.53.22.112:80 - 
+192.126.200.69:80 - ERROR: The requested URL could not be retrieved
+23.66.181.138:80 - Title not found
+213.221.201.4:80 - 403 Forbidden
+52.216.26.181:80 - Cloud Object Storage - Amazon S3  - AWS
+23.237.247.9:80 - 
+144.121.82.202:80 - Document Moved
+47.134.66.41:80 - 
+20.62.244.125:80 - Title not found
+109.74.203.78:80 - Apache2 Ubuntu Default Page: It works
+87.100.254.156:80 - Title not found
+40.74.136.137:80 - Title not found
+3.120.118.28:80 - Title not found
+23.46.97.64:80 - Title not found
+77.55.79.241:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+68.178.228.100:80 - Coming Soon
+18.161.196.198:80 - Title not found
+219.164.249.242:80 - 403 Forbidden
+212.129.56.71:80 - Welcome to nginx!
+104.25.130.86:80 - Direct IP access not allowed | Cloudflare
+91.107.237.235:80 - ERIS
+104.27.23.239:80 - Direct IP access not allowed | Cloudflare
+65.52.141.62:80 - Title not found
+104.124.176.4:80 - Title not found
+23.35.160.55:80 - Title not found
+23.218.3.33:80 - Title not found
+104.21.94.147:80 - Direct IP access not allowed | Cloudflare
+104.16.92.32:80 - Direct IP access not allowed | Cloudflare
+79.162.234.56:80 - WEB SERVICE
+192.254.231.70:80 - Not Acceptable!
+184.24.186.121:80 - Title not found
+151.69.229.59:80 - 
+	Data Job - Can bus, soluzioni per l'automotive e l'automation
+
+98.32.193.82:80 - 
+142.111.32.162:80 - 404 Not Found
+35.200.241.34:80 - People Power - Sri Lanka
+184.30.190.49:80 - Title not found
+100.27.5.81:80 - FreePBX Administration
+178.242.17.148:80 - 
+20.226.59.226:80 - Apache2 Ubuntu Default Page: It works
+207.150.222.116:80 - Title not found
+136.0.107.114:80 - 403 Forbidden
+54.192.87.253:80 - Title not found
+192.126.247.12:80 - ERROR: The requested URL could not be retrieved
+23.61.141.144:80 - Title not found
+103.136.115.227:80 - Title not found
+63.35.117.242:80 - Title not found
+3.254.18.189:80 - Title not found
+185.152.15.241:80 - Authorization Failed (Error 401)
+128.199.104.210:80 - Apache2 Ubuntu Default Page: It works
+65.108.238.216:80 - Title not found
+212.181.67.68:80 - IIS Windows Server
+172.245.171.221:80 - YourBrand
+104.248.244.37:80 - Title not found
+27.126.249.5:80 - 
+59.126.237.241:80 - 401 Unauthorized
+193.247.74.206:80 - Title not found
+107.6.20.123:80 - Default Parallels Plesk Panel Page
+207.91.251.90:80 - India Rail Info: The World's Largest Community of RailFans & Travellers
+170.130.91.250:80 - 403 Forbidden
+2.189.92.114:80 - RouterOS router configuration page
+54.93.32.153:80 - Title not found
+178.128.104.112:80 - Database Error
+199.115.125.158:80 - IIS Windows Server
+20.22.8.13:80 - 502 Bad Gateway
+154.92.63.226:80 - 403 Forbidden
+38.110.204.53:80 - Fiberstreamwifi Portal
+65.1.57.142:80 - 404 Not Found
+129.146.86.78:80 - 404 Not Found
+172.233.38.185:80 - Success!
+83.48.248.69:80 - 
+168.235.89.194:80 - Not Found
+54.192.53.85:80 - Title not found
+72.108.229.245:80 - 
+207.244.234.138:80 - 404 Not Found
+184.95.63.146:80 - Title not found
+103.196.222.131:80 - Please wait, the login page is opening...
+23.3.59.163:80 - Title not found
+52.222.196.183:80 - Title not found
+93.123.74.131:80 - Apache HTTP Server Test Page powered by CentOS
+84.152.82.97:80 - Title not found
+54.250.104.65:80 - Title not found
+92.54.12.132:80 - Default Parallels Plesk Page
+35.163.23.233:80 - Database Error
+223.200.230.231:80 - Title not found
+154.51.11.225:80 - 410 Gone
+38.12.56.23:80 - 404 Not Found
+66.113.226.25:80 - Operations Automation Default Page
+195.15.254.12:80 - 404 Not Found
+166.0.241.143:80 - Noder.
+91.208.183.21:80 - Title not found
+1.249.127.171:80 - Web Viewer for Samsung DVR
+23.5.8.227:80 - Title not found
+172.64.124.184:80 - Direct IP access not allowed | Cloudflare
+46.28.44.76:80 - Title not found
+5.9.61.68:80 - Handshake e. V. cloud4
+197.53.217.252:80 - 
+WEB Login
+157.197.177.13:80 - Title not found
+212.118.54.106:80 - Apache2 Ubuntu Default Page: It works
+77.55.158.20:80 - Domena  jest utrzymywana na serwerach nazwa.pl
+34.73.163.110:80 - Database Error
+12.42.111.36:80 - Title not found
+150.136.135.167:80 - Title not found
+23.229.195.231:80 - Coming Soon
+23.203.67.14:80 - Title not found
+3.232.225.60:80 - 503 Service Temporarily Unavailable
+74.124.200.76:80 - Title not found
+18.173.151.209:80 - Title not found
+104.84.4.243:80 - Title not found
+108.136.97.161:80 - Title not found
+129.194.11.25:80 - Title not found
+54.240.187.244:80 - Title not found
+154.198.247.5:80 - 500 Internal Server Error
+23.195.48.159:80 - Title not found
+18.183.0.194:80 - 403 Forbidden
+200.84.167.154:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#56;&#78;&#32;&#86;&#51;&#46;&#49;
+52.71.115.197:80 - Title not found
+18.116.123.156:80 - Title not found
