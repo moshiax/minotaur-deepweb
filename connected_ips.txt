@@ -476,3 +476,29 @@ WEB Login
 200.84.167.154:80 - &#90;&#88;&#72;&#78;&#32;&#72;&#49;&#54;&#56;&#78;&#32;&#86;&#51;&#46;&#49;
 52.71.115.197:80 - Title not found
 18.116.123.156:80 - Title not found
+31.141.253.18:80 - 
+54.77.100.82:80 - Title not found
+38.177.102.26:80 - 404 Not Found
+104.70.247.3:80 - Title not found
+104.19.150.40:80 - Direct IP access not allowed | Cloudflare
+54.76.34.18:80 - 502 Bad Gateway
+162.209.24.193:80 - Title not found
+75.139.165.168:80 - 
+104.22.241.214:80 - Direct IP access not allowed | Cloudflare
+35.195.191.51:80 - Access forbidden!
+38.109.21.50:80 - NDT (Network Diagnostic Tool) Server from Measurement Lab
+23.34.192.234:80 - Title not found
+3.223.7.183:80 - Test Page for the Nginx HTTP Server on Amazon Linux
+173.223.60.172:80 - Title not found
+3.208.111.228:80 - CON302 Web App
+52.222.244.249:80 - Title not found
+52.71.46.31:80 - Title not found
+200.7.112.225:80 - Title not found
+223.130.175.6:80 - Welcome to nginx!
+103.163.139.213:80 - Apache2 Ubuntu Default Page: It works
+20.242.53.47:80 - Title not found
+178.70.33.118:80 - F670
+54.197.64.172:80 - Community Exchange | Sparkol
+52.216.164.157:80 - Cloud Object Storage - Amazon S3  - AWS
+172.234.25.112:80 - Apache HTTP Server Test Page powered by CentOS
+61.101.244.75:80 - Title not found

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>МИНОТАВР SEARCH ENGINE</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+<script>
+    function redirectToIP(ip) {
+        window.open(`http://${ip}`, '_blank');
+    }
+</script>
+</head>
+<body>
+    <h1>МИНОТАВР SEARCH ENGINE</h1>
+    <form action="/search" method="post">
+        <label for="query">Search:</label>
+        <input type="text" id="query" name="query" required>
+        <button type="submit">Submit</button>
+    </form>
+    {% if search_results %}
+        <ul>
+            {% for result in search_results %}
+                <li><a onclick="redirectToIP('{{ result[0] }}')">{{ result[0] }} - {{ result[1] }}</a></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No results found for "{{ query }}"</p>
+    {% endif %}
+</body>
+</html>
