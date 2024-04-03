@@ -16,15 +16,14 @@
             cursor: pointer;
         }
     </style>
-    <script>
-        function redirectToIP(ip) {
-            window.open(`http://${ip}`, '_blank');
-        }
-    </script>
+<script>
+    function redirectToIP(ip) {
+        window.open(`http://${ip}`, '_blank');
+    }
+</script>
 </head>
 <body>
     <h1>МИНОТАВР SEARCH ENGINE</h1>
-    <p>Number of calculations: {% include 'calculation_count.txt' %}</p>
     <form action="/search" method="post">
         <label for="query">Search:</label>
         <input type="text" id="query" name="query" required>
