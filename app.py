@@ -3,8 +3,8 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 def read_connected_ips():
-    # Читаем connected-ips.txt и возвращаем данные
-    with open('connected_ips.txt', 'r') as file:
+
+    with open('connected_ips.txt', 'r', encoding='utf-8') as file:
         lines = file.readlines()
         ips_data = [line.strip().split(' - ') for line in lines if ' - ' in line]
     return ips_data
@@ -19,10 +19,10 @@ def search():
     query = request.form.get('query').lower()
     ips_data = read_connected_ips()
 
-    # Фильтруем результаты поиска по введенному запросу
+
     search_results = [ip_data for ip_data in ips_data if len(ip_data) == 2 and (query in ip_data[0].lower() or query in ip_data[1].lower())]
 
     return render_template('search_result.html', query=query, search_results=search_results)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
